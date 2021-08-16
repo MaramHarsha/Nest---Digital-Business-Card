@@ -1,4 +1,10 @@
 # Nest---Digital-Business-Card (Do you want the script Contact me via mail) based on votes i will upload as this is my personal project.)
+/polls Option1 'Option 2' "Option 3"
+
+# Automatically replace with the following markdown =>
+[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option1)](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option1/vote)
+[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%202)](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%202/vote)
+[![](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%203)](https://api.gh-polls.com/poll/01BY7ECS60GG8F9AR1VMR8745S/Option%203/vote)
 
 ## Best QR Code Digital Business Card Maker PHP Script
 Start a business with this Contactless Digital Business Card Maker within 5 minutes. With the help of this QR Code digital business card builder, customers can scan the QR code and check your business card on their phones.
