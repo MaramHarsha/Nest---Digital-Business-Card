@@ -1,8 +1,8 @@
 # Nest---Digital-Business-Card (Do you want the script Contact me via mail) based on votes i will upload as this is my personal project.)
 
 ## Based on votes i will decide it click on the option to vote.
-[![](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/Upload%20the%20Script.)](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/Upload%20the%20Script./vote)
-[![](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/No%20Need.)](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/No%20Need./vote)
++ [![](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/Upload%20the%20Script.)](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/Upload%20the%20Script./vote)
++ [![](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/No%20Need.)](https://api.gh-polls.com/poll/01FD6WX2ZS373GRX7Z78CC4R9G/No%20Need./vote)
 
 ## Best QR Code Digital Business Card Maker PHP Script
 Start a business with this Contactless Digital Business Card Maker within 5 minutes. With the help of this QR Code digital business card builder, customers can scan the QR code and check your business card on their phones.
